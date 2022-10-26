@@ -4,4 +4,4 @@ Created a db named "address.db".
 
 Created cursor to execute SQLLite queries.
 
-performed CRUD operation sucessfully.
+Performed CRUD operation sucessfully.
