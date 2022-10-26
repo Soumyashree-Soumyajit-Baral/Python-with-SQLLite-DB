@@ -1,4 +1,4 @@
-Connected with SQLLite database fron python using sqllite3 module.
+Connected with SQLLite database from python using sqllite3 module.
 
 Created a db named "address.db".
 
